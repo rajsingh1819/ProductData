@@ -1,0 +1,53 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "second Hand",
+      "price": 100,
+      "comment": "i like apple",
+      "date": "2023-04-30T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Redmi",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 12000,
+      "comment": "I like Redmi phones",
+      "date": "2023-05-12T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "LG",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 30000,
+      "comment": "LG tv",
+      "date": "2023-05-17T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "HP",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 23000,
+      "comment": "Hp is the good Product",
+      "date": "2023-05-02T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "banana",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 12,
+      "comment": "bdbkwnnwki",
+      "date": "2023-11-01T18:30:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
